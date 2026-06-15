@@ -1,6 +1,5 @@
 ---
 title: 시간복리 — 개인정보 처리방침
-description: 시간복리 앱의 개인정보 처리방침. 모든 데이터는 사용자 기기에만 저장되며 외부로 전송되지 않습니다.
 robots: noindex, nofollow
 ---
 
